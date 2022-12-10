@@ -1,7 +1,7 @@
 # NUCLEO-STM32F439ZI-UDP-CLIENT-LwIP-TEST
 -This is an application design to send data to UDP client by using LwIP stack.
--Client is your (Laptop/PC) of address 192.168.1.6 and port number=7
--Server is the (board) of address 192.168.1.7 and port number=8
+-Client is your (board) of address 192.168.1.6 and port number=7
+-Server is the (Laptop/PC) of address 192.168.1.7 and port number=8
 
 # How to use ?
 1)Statically set IP address of your Laptop/PC to 192.168.1.6
